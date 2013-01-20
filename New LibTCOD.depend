@@ -5,7 +5,7 @@
 	"Map.h"
 	"Engine.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\libtcod.hpp
+1358670501 c:\c\libtcod-1.5.1\include\libtcod.hpp
 	"libtcod.h"
 	"list.hpp"
 	"color.hpp"
@@ -27,7 +27,7 @@
 	"namegen.hpp"
 	"txtfield.hpp"
 
-1338230776 c:\c\libtcod-1.5.1\include\libtcod.h
+1358670500 c:\c\libtcod-1.5.1\include\libtcod.h
 	<wchar.h>
 	"SDL/SDL.h"
 	"list.h"
@@ -50,103 +50,103 @@
 	"namegen.h"
 	"txtfield.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\list.h
+1358670501 c:\c\libtcod-1.5.1\include\list.h
 
-1338230775 c:\c\libtcod-1.5.1\include\color.h
+1358670500 c:\c\libtcod-1.5.1\include\color.h
 
-1338230775 c:\c\libtcod-1.5.1\include\console.h
+1358670500 c:\c\libtcod-1.5.1\include\console.h
 	"console_types.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\console_types.h
+1358670500 c:\c\libtcod-1.5.1\include\console_types.h
 
-1338230776 c:\c\libtcod-1.5.1\include\image.h
+1358670500 c:\c\libtcod-1.5.1\include\image.h
 
-1338230776 c:\c\libtcod-1.5.1\include\mouse.h
+1358670501 c:\c\libtcod-1.5.1\include\mouse.h
 	"mouse_types.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\mouse_types.h
+1358670501 c:\c\libtcod-1.5.1\include\mouse_types.h
 
-1338230777 c:\c\libtcod-1.5.1\include\sys.h
+1358670501 c:\c\libtcod-1.5.1\include\sys.h
 
-1338230776 c:\c\libtcod-1.5.1\include\mersenne.h
+1358670501 c:\c\libtcod-1.5.1\include\mersenne.h
 	"mersenne_types.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\mersenne_types.h
+1358670501 c:\c\libtcod-1.5.1\include\mersenne_types.h
 
-1338230775 c:\c\libtcod-1.5.1\include\bresenham.h
+1358670500 c:\c\libtcod-1.5.1\include\bresenham.h
 
-1338230777 c:\c\libtcod-1.5.1\include\noise.h
+1358670501 c:\c\libtcod-1.5.1\include\noise.h
 	"noise_defaults.h"
 
-1338230777 c:\c\libtcod-1.5.1\include\noise_defaults.h
+1358670501 c:\c\libtcod-1.5.1\include\noise_defaults.h
 
-1338230776 c:\c\libtcod-1.5.1\include\fov.h
+1358670500 c:\c\libtcod-1.5.1\include\fov.h
 	"fov_types.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\fov_types.h
+1358670500 c:\c\libtcod-1.5.1\include\fov_types.h
 
-1338230777 c:\c\libtcod-1.5.1\include\path.h
+1358670501 c:\c\libtcod-1.5.1\include\path.h
 
-1338230776 c:\c\libtcod-1.5.1\include\lex.h
+1358670500 c:\c\libtcod-1.5.1\include\lex.h
 
-1338230777 c:\c\libtcod-1.5.1\include\parser.h
+1358670501 c:\c\libtcod-1.5.1\include\parser.h
 
-1338230777 c:\c\libtcod-1.5.1\include\tree.h
+1358670501 c:\c\libtcod-1.5.1\include\tree.h
 
-1338230775 c:\c\libtcod-1.5.1\include\bsp.h
+1358670500 c:\c\libtcod-1.5.1\include\bsp.h
 
-1338230776 c:\c\libtcod-1.5.1\include\heightmap.h
+1358670500 c:\c\libtcod-1.5.1\include\heightmap.h
 
-1338230777 c:\c\libtcod-1.5.1\include\zip.h
+1358670501 c:\c\libtcod-1.5.1\include\zip.h
 
-1338230776 c:\c\libtcod-1.5.1\include\namegen.h
+1358670501 c:\c\libtcod-1.5.1\include\namegen.h
 
-1338230777 c:\c\libtcod-1.5.1\include\txtfield.h
+1358670501 c:\c\libtcod-1.5.1\include\txtfield.h
 
-1338230776 c:\c\libtcod-1.5.1\include\list.hpp
+1358670501 c:\c\libtcod-1.5.1\include\list.hpp
 	<string.h>
 	<stdlib.h>
 
-1338230775 c:\c\libtcod-1.5.1\include\color.hpp
+1358670500 c:\c\libtcod-1.5.1\include\color.hpp
 
-1338230775 c:\c\libtcod-1.5.1\include\console.hpp
+1358670500 c:\c\libtcod-1.5.1\include\console.hpp
 	"console_types.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\image.hpp
+1358670500 c:\c\libtcod-1.5.1\include\image.hpp
 
-1338230777 c:\c\libtcod-1.5.1\include\sys.hpp
+1358670501 c:\c\libtcod-1.5.1\include\sys.hpp
 
-1338230776 c:\c\libtcod-1.5.1\include\mersenne.hpp
+1358670501 c:\c\libtcod-1.5.1\include\mersenne.hpp
 	"mersenne_types.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\mouse.hpp
+1358670501 c:\c\libtcod-1.5.1\include\mouse.hpp
 	"mouse_types.h"
 
-1338230775 c:\c\libtcod-1.5.1\include\bresenham.hpp
+1358670500 c:\c\libtcod-1.5.1\include\bresenham.hpp
 
-1338230777 c:\c\libtcod-1.5.1\include\noise.hpp
+1358670501 c:\c\libtcod-1.5.1\include\noise.hpp
 	"noise_defaults.h"
 
-1338230776 c:\c\libtcod-1.5.1\include\fov.hpp
+1358670500 c:\c\libtcod-1.5.1\include\fov.hpp
 	"fov_types.h"
 
-1338230777 c:\c\libtcod-1.5.1\include\path.hpp
+1358670501 c:\c\libtcod-1.5.1\include\path.hpp
 
-1338230776 c:\c\libtcod-1.5.1\include\lex.hpp
+1358670500 c:\c\libtcod-1.5.1\include\lex.hpp
 
-1338230777 c:\c\libtcod-1.5.1\include\parser.hpp
+1358670501 c:\c\libtcod-1.5.1\include\parser.hpp
 
-1338230777 c:\c\libtcod-1.5.1\include\tree.hpp
+1358670501 c:\c\libtcod-1.5.1\include\tree.hpp
 
-1338230775 c:\c\libtcod-1.5.1\include\bsp.hpp
+1358670500 c:\c\libtcod-1.5.1\include\bsp.hpp
 
-1338230776 c:\c\libtcod-1.5.1\include\heightmap.hpp
+1358670500 c:\c\libtcod-1.5.1\include\heightmap.hpp
 
-1338230777 c:\c\libtcod-1.5.1\include\zip.hpp
+1358670501 c:\c\libtcod-1.5.1\include\zip.hpp
 
-1338230776 c:\c\libtcod-1.5.1\include\namegen.hpp
+1358670501 c:\c\libtcod-1.5.1\include\namegen.hpp
 
-1338230777 c:\c\libtcod-1.5.1\include\txtfield.hpp
+1358670501 c:\c\libtcod-1.5.1\include\txtfield.hpp
 	"color.hpp"
 
 1358549344 c:\c\libtcod roguelike\new libtcod\actor.h
@@ -168,4 +168,32 @@
 1358549702 source:c:\c\libtcod roguelike\new libtcod\actor.cpp
 	"libtcod.hpp"
 	"Actor.h"
+
+1358549702 source:c:\c\libtcod roguelike\new-libtcod\actor.cpp
+	"libtcod.hpp"
+	"Actor.h"
+
+1358549344 c:\c\libtcod roguelike\new-libtcod\actor.h
+
+1358581456 source:c:\c\libtcod roguelike\new-libtcod\main.cpp
+	"libtcod.hpp"
+	"Actor.h"
+	"Map.h"
+	"Engine.h"
+
+1358667489 c:\c\libtcod roguelike\new-libtcod\map.h
+
+1358577364 c:\c\libtcod roguelike\new-libtcod\engine.h
+
+1358667924 source:c:\c\libtcod roguelike\new-libtcod\engine.cpp
+	"libtcod.hpp"
+	"Actor.h"
+	"Map.h"
+	"Engine.h"
+
+1358668363 source:c:\c\libtcod roguelike\new-libtcod\map.cpp
+	"libtcod.hpp"
+	"Map.h"
+	"Actor.h"
+	"Engine.h"
 
