@@ -1,2 +1,9 @@
 NEWTCOD roguelike that uses the python tutorial but in c++
 
+This program is just me going on the tutorial from the LIBTCOD Site as seen here:
+
+http://codeumbra.eu/complete-roguelike-tutorial-using-c-and-libtcod-part-1-setting-up
+
+The libtcod library is needed for this as well as mingw. Libtcod can be found here: http://doryen.eptalys.net/libtcod/download/
+
+I use code::blocks as my IDE.
